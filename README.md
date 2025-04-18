@@ -1,9 +1,7 @@
-<<<<<<< HEAD
-# Olá, Mundo
- Primeiro repositório versiondkao
+Olá, Mundo
+ Primeiro repositório versionado
 
-Repositório criado durante uma aula ao vivo ! 
+Repositório criado durante uma aula ao vivo! 🎥
 
-Essa linha eu adicionei diretamente no site! QUE IMPRESSIONANTE!
-
+Essa linha eu adicionei diretamente no site! QUE IMPRESSIONANTE! 😱🔥
  
